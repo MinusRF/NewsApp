@@ -81,15 +81,9 @@ to fetch and display data.
 Getting Started
 ---------------
 
--   Copy the code in your prefered IDE
--   Import the missing packages - This is an example of how to list
-    things you need to use the software and how to install them : pip
-    intall -[PACKAGE-NAME]
--   Make sure to have a web cam (Default), incase of external cameras
-    use modify code (cv2.videoCapture(0) to cv2.VideoCapture(1))
--   If blue color object is not getting deteced, adjust blue\_upper and
-    blue\_lower values, and avoid having too bright background and
-    anyother blue colored object other than pen.
+- Download the repository
+- Login to [NewsAPI](https://newsapi.org/) to get your own API key
+- Add your API key inside MainActivity.java
 
 <!-- CONTRIBUTING -->
 Contributing
@@ -113,14 +107,13 @@ Contact
 Rajat Bansal - [@Email](rajatbansal16111998@gamil.com) -
 [@LinkedIn](https://www.linkedin.com/in/rajat-bansal-829535170)
 
-Project Link: <https://github.com/MinusRF/AirStylus>
+Project Link: <https://github.com/MinusRF/NewsApp>
 
 References
 ----------
 
--   [OpenCV
-    Documententation](https://www.webpagefx.com/tools/emoji-cheat-sheet)
--   [GeeksforGeeks](https://shields.io)
+-   [Android Documententation](https://developer.android.com/docs)
+
 
 License
 -------
