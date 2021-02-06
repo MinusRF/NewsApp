@@ -63,8 +63,8 @@ to fetch and display data.
 ### Demo
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot01.jpg" alt="Screenshot01" width="200"></td>
-    <td valign="top"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot02.jpg" alt="Screenshot02" width="200"></td>
+    <td valign="top" style="padding:30px"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot01.jpg" alt="Screenshot01" width="200" ></td>
+    <td valign="top" style="padding:30px"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot02.jpg" alt="Screenshot02" width="200"></td>
   </tr>
  </table>
  
