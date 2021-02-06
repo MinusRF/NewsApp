@@ -61,8 +61,19 @@ to fetch and display data.
 -   Android Build Tools v30.0.5
 
 ### Demo
-
-<img src="https://github.com/MinusRF/NewsApp/blob/master/NewzApp2.gif" width="40%">
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot01.jpg"></td>
+    <td valign="top"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot02.jpg"></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td valign="top"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot03.jpg"></td>
+    <td valign="top"><img src="https://github.com/MinusRF/NewsApp/blob/master/Screenshot04.jpg"></td>
+  </tr>
+ </table>
 
 <!-- GETTING STARTED -->
 Getting Started
