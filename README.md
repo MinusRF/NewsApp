@@ -47,7 +47,7 @@ Table Of Contents
 About The Project
 -----------------
 
-NEWZAPP helps users to stay updated with latest news. Live news data is
+NewsApp helps users to stay updated with latest news. Live news data is
 fetched from [NewsAPI](https://newsapi.org/). Users can also search for
 the topic to get corresponding news feeds.
 [Retrofit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects)
