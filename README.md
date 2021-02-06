@@ -1,12 +1,11 @@
-<h3 align="center">
-NEWZAPP
-</h3>
+  <h3 align="center">NewsApp</h3>
 
-<p align="center">
-    
-Stay Updated ! <br />
+  <p align="center">
+    Stay Updated !
+    <br />
+  </p>
 </p>
-</p>
+
 
 
 
