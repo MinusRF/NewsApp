@@ -62,7 +62,7 @@ to fetch and display data.
 
 ### Demo
 
-<img src="https://github.com/MinusRF/GIF/blob/master/coder.gif" width="40%">
+<img src="https://github.com/MinusRF/NewsApp/blob/master/NewzApp2.gif" width="40%">
 
 <!-- GETTING STARTED -->
 Getting Started
