@@ -111,7 +111,7 @@ Project Link: <https://github.com/MinusRF/NewsApp>
 References
 ----------
 
--   [Android Documententation](https://developer.android.com/docs)
+-   [Android Documentation](https://developer.android.com/docs)
 
 
 License
